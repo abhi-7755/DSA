@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhi-7755/DSA/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0537-complex-number-multiplication](https://github.com/abhi-7755/DSA/tree/master/0537-complex-number-multiplication) |
+## String
+|  |
+| ------- |
+| [0537-complex-number-multiplication](https://github.com/abhi-7755/DSA/tree/master/0537-complex-number-multiplication) |
+## Simulation
+|  |
+| ------- |
+| [0537-complex-number-multiplication](https://github.com/abhi-7755/DSA/tree/master/0537-complex-number-multiplication) |
 <!---LeetCode Topics End-->
