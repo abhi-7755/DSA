@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/abhi-7755/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0537-complex-number-multiplication](https://github.com/abhi-7755/DSA/tree/master/0537-complex-number-multiplication) |
 ## Simulation
 |  |
