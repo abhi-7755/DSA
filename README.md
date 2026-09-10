@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhi-7755/DSA/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/abhi-7755/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhi-7755/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/abhi-7755/DSA/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhi-7755/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhi-7755/DSA/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/abhi-7755/DSA/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhi-7755/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
