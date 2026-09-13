@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abhi-7755/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/abhi-7755/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhi-7755/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/abhi-7755/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/abhi-7755/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/abhi-7755/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/abhi-7755/DSA/tree/master/0704-binary-search) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhi-7755/DSA/tree/master/0048-rotate-image) |
 | [0537-complex-number-multiplication](https://github.com/abhi-7755/DSA/tree/master/0537-complex-number-multiplication) |
 ## String
 |  |
@@ -60,5 +62,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhi-7755/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/abhi-7755/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
