@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/abhi-7755/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/abhi-7755/DSA/tree/master/0048-rotate-image) |
 | [0537-complex-number-multiplication](https://github.com/abhi-7755/DSA/tree/master/0537-complex-number-multiplication) |
 ## String
