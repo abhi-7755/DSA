@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/abhi-7755/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/abhi-7755/DSA/tree/master/0022-generate-parentheses) |
 | [0537-complex-number-multiplication](https://github.com/abhi-7755/DSA/tree/master/0537-complex-number-multiplication) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhi-7755/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Simulation
@@ -73,5 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhi-7755/DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhi-7755/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/abhi-7755/DSA/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/abhi-7755/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
